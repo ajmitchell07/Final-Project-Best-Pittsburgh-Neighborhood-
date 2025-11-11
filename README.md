@@ -11,7 +11,7 @@ Lakshya Srinivasan las660@pitt.edu
 AJ Mitchell ajm698@pitt.edu
 
 ### Project Description
-We are analyzing which neighborhood in Pittsburgh is the best based on safety. We are using three different safety metrics, including non-traffic citations, air quality, and landslide-prone areas
+We are analyzing which neighborhood in Pittsburgh is the best based on safety. We are using three different safety metrics, including non-traffic citations, air quality, and landslide-prone areas.
 
 **Datasets Used:**
 <br>
