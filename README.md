@@ -1,6 +1,5 @@
 # Best Neighborhood in Pittsburgh Based on Safety
-### Team name
-LAA
+### Team name: LAA
 
 **Group Members:**
 <br>
