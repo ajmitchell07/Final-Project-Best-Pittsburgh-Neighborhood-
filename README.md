@@ -18,7 +18,7 @@ Non-Traffic Citations: https://data.wprdc.org/datastore/dump/6b11e87d-1216-463d-
 <br>
 Firearm Seizures: https://data.wprdc.org/datastore/dump/e967381d-d7e9-48e3-a2a2-39262f7fa5c4
 <br>
-Monthly Criminal Activity: https://data.wprdc.org/dataset/monthly-criminal-activity-dashboard
+Monthly Criminal Activity: https://data.wprdc.org/dataset/monthly-criminal-activity-dashboard <br>
 Calculates the monthly criminal activity in each Pittsburgh neighborhood.
 
 
